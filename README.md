@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+In this I converted a clothing store figma design to flutter UI 2, pages, products and product detail page. 
 
 A few resources to get you started if this is your first Flutter project:
 
